@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning **advanced test automation techniques and DevOps integration**.
 - 👨‍💻 All of my projects are available at https://github.com/SanjanaVarma12
 - 💞️ I’m looking to collaborate on **open-source projects and innovative testing tools**.
-- 📫 How to reach me: **[Mail](mailto:sanjanavarma097@example.com)**
-- 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/sanjanavarma)**
-- 😄 Pronouns: **She/Her**
+- 📫 How to reach me: **[Mail]mailto:sanjanavarma097@example.com**
+- 📄 Know about my experiences: **[LinkedIn]https://www.linkedin.com/in/sanjanavarma**
 - ⚡ Fun fact: **“I love bug hunting so much that I even test my coffee machine's reliability!”**.
 - 💬 Ask me about: Selenium, SDET, JAVA, POSTMAN, Rest Assured, Jira.
 
