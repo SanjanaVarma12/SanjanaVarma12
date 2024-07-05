@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana Varma</h1>
 <h3 align="center">Software Quality Assurance Engineer</h3>
 
-- 👋 Hi, I’m **Sanjana Varma**(@SanjanaVarma12) 
 - 👀 I’m interested in **enhancing software quality through rigorous testing and automation**.
 - 🌱 I’m currently learning **advanced test automation techniques and DevOps integration**.
 - 👨‍💻 All of my projects are available at https://github.com/SanjanaVarma12
@@ -28,11 +27,11 @@
 <div class="section-title">🌟 Notable Achievements</div>
     <div class="achievements">
         <ul>
-            <li>‘Gracias Appreciation’ for delivering quality work in 2023</li>
-            <li>‘RISE Award: Best Team - Project Excellence’ for delivering exceptional performance in 2023</li>
-            <li>‘INSTA Award’ for delivering quality work independently in 2022</li>
-            <li>‘RISE Award: Best Team - Project Excellence’ for delivering exceptional performance in 2022</li>
-            <li>Awarded 'Best Outgoing Student' by the E&TC Department at Sinhgad Academy of Engineering</li>
+            <li><strong>‘Gracias Appreciation’</strong> for delivering quality work in 2023</li>
+            <li><strong>‘RISE Award: Best Team - Project Excellence’</strong> for delivering exceptional performance in 2023</li>
+            <li><strong>‘INSTA Award’ </strong>for delivering quality work independently in 2022</li>
+            <li><strong>‘RISE Award: Best Team - Project Excellence’</strong> for delivering exceptional performance in 2022</li>
+            <li><strong>Awarded 'Best Outgoing Student'</strong> by the E&TC Department at Sinhgad Academy of Engineering</li>
         </ul>
 </div>
 
