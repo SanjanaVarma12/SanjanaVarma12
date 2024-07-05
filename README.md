@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Sanjana Varma(@SanjanaVarma12) 
+- 👋 Hi, I’m **Sanjana Varma**(@SanjanaVarma12) 
 - 👀 I’m interested in **enhancing software quality through rigorous testing and automation**.
 - 🌱 I’m currently learning **advanced test automation techniques and DevOps integration**.
 - 👨‍💻 All of my projects are available at https://github.com/SanjanaVarma12
