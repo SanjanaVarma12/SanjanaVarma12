@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **advanced test automation techniques and DevOps integration**.
 - 👨‍💻 All of my projects are available at https://github.com/SanjanaVarma12
 - 💞️ I’m looking to collaborate on **open-source projects and innovative testing tools**.
-- 📫 How to reach me: **[Mail]sanjanavarma097@example.com**
-- 📄 Know about my experiences: **[LinkedIn]https://www.linkedin.com/in/sanjanavarma**
+- 📫 How to reach me: sanjanavarma097@gmail.com
+- 📄 Know about my experiences: https://www.linkedin.com/in/sanjanavarma
 - ⚡ Fun fact: **“I love bug hunting so much that I even test my coffee machine's reliability!”**.
 - 💬 Ask me about: Selenium, SDET, JAVA, POSTMAN, Rest Assured, Jira.
 
@@ -37,6 +37,6 @@
 
 <div class="section-title">🎓 Education</div>
     <div class="education">
-        <p>Bachelor of Engineering (B. E.) 2017 – 2021</p>
+        <p><strong>Bachelor of Engineering (B. E.) 2017 – 2021</strong></p>
         <p>Branch: Electronics & Telecommunication (E&TC) | CGPA: 8.87</p>
 </div>
