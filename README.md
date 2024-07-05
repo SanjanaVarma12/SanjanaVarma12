@@ -11,35 +11,7 @@
 - ⚡ Fun fact: **“I love bug hunting so much that I even test my coffee machine's reliability!”**.
 - 💬 Ask me about: Selenium, SDET, JAVA, POSTMAN, Rest Assured, Jira.
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .section-title {
-            font-size: 1.2em;
-            font-weight: bold;
-            margin-top: 20px;
-        }
-        .skills, .achievements, .education {
-            margin-left: 20px;
-        }
-        .skills ul, .achievements ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .skills li, .achievements li {
-            margin-bottom: 10px;
-        }
-    </style>
-    <title>Profile</title>
-</head>
-<body>
-
-    <div class="section-title">🛠 Skills & Expertise</div>
+<div class="section-title">🛠 Skills & Expertise</div>
     <div class="skills">
         <ul>
             <li><strong>Testing:</strong> Manual, Automation (Selenium with Java), API (Manual and Automation using Rest Assured)</li>
@@ -47,9 +19,25 @@
             <li><strong>Programming Languages:</strong> Java, Python, C, C++</li>
             <li><strong>Web Technologies:</strong> HTML, CSS</li>
             <li><strong>Methodologies:</strong> Agile (Scrum)</li>
-           
+            <li><strong>Database:</strong> SQL</li>
+            <li><strong>Other:</strong> STLC and SDLC</li>
+            <li><strong>IDEs:</strong> Eclipse, PyCharm, IDLE</li>
+        </ul>
+    </div>
 
-<!---
-SanjanaVarma12/SanjanaVarma12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <div class="section-title">🌟 Notable Achievements</div>
+    <div class="achievements">
+        <ul>
+            <li>‘Gracias Appreciation’ for delivering quality work in 2023</li>
+            <li>‘RISE Award: Best Team - Project Excellence’ for delivering exceptional performance in 2023</li>
+            <li>‘INSTA Award’ for delivering quality work independently in 2022</li>
+            <li>‘RISE Award: Best Team - Project Excellence’ for delivering exceptional performance in 2022</li>
+            <li>Awarded 'Best Outgoing Student' by the E&TC Department at Sinhgad Academy of Engineering</li>
+        </ul>
+    </div>
+
+    <div class="section-title">🎓 Education</div>
+    <div class="education">
+        <p>Bachelor of Engineering (B. E.) 2017 – 2021</p>
+        <p>Branch: Electronics & Telecommunication (E&TC) | CGPA: 8.87</p>
+    </div>
