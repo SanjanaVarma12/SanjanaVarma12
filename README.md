@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Sanjana Varma</h1>
+<h3 align="center">Software Quality Assurance Engineer</h3>
 
 - 👋 Hi, I’m **Sanjana Varma**(@SanjanaVarma12) 
 - 👀 I’m interested in **enhancing software quality through rigorous testing and automation**.
