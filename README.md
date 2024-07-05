@@ -25,7 +25,7 @@
         </ul>
     </div>
 
-    <div class="section-title">🌟 Notable Achievements</div>
+<div class="section-title">🌟 Notable Achievements</div>
     <div class="achievements">
         <ul>
             <li>‘Gracias Appreciation’ for delivering quality work in 2023</li>
@@ -34,10 +34,10 @@
             <li>‘RISE Award: Best Team - Project Excellence’ for delivering exceptional performance in 2022</li>
             <li>Awarded 'Best Outgoing Student' by the E&TC Department at Sinhgad Academy of Engineering</li>
         </ul>
-    </div>
+</div>
 
-    <div class="section-title">🎓 Education</div>
+<div class="section-title">🎓 Education</div>
     <div class="education">
         <p>Bachelor of Engineering (B. E.) 2017 – 2021</p>
         <p>Branch: Electronics & Telecommunication (E&TC) | CGPA: 8.87</p>
-    </div>
+</div>
